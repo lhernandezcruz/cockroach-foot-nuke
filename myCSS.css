@@ -1,0 +1,30 @@
+html, body, .jumbotron {
+    padding-bottom: 0;
+    color: #12a3a3;
+    background-color: #151515;
+}
+button {
+    width :100%;
+}
+.col-xs-4{
+    margin : 0px;
+    padding: 5px;
+}
+
+.container {
+    margin-top: 4vh;
+}
+
+#total {
+    font-weight: bold;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 0.5rem;
+  background-color: #242424;
+  text-align: center;
+}
